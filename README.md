@@ -45,8 +45,8 @@ This project combines **GitHub AI Models**, **Manim (Mathematical Animation Engi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Trimpu/AI-powered_visualisation_of_mathematical_context-2.git
-cd AI-powered_visualisation_of_mathematical_context-2
+git clone https://github.com/sidxu18-ai/mvs.git
+cd mvs
 ```
 
 ### 2. Create Virtual Environment
